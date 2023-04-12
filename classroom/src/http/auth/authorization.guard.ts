@@ -29,7 +29,7 @@ export class AuthorizationGuard implements CanActivate {
         audience: this.AUTH0_AUDIENCE,
         issuerBaseURL: this.AUTH0_DOMAIN,
         tokenSigningAlg: 'RS256',
-      }),
+      })
     );
 
     try {
