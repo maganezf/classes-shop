@@ -86,11 +86,7 @@ This project was created using theses versions:
 ## :construction_worker: How to Run
 
 ```bash
-# Install Dependencies
-$ yarn or yarn install
-
-# Run Application
-$ yarn dev
+# This application is still in development
 ```
 
 Go to <http://localhost:3000> to see the result.
